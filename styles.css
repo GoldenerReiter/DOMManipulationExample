@@ -1,0 +1,29 @@
+* {
+    color: azure;
+}
+
+.cp-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cp-main .text1 h1 {
+    text-align: center;
+    justify-content: center;
+}
+
+.cp-main .text1 .content p {
+    text-align: center;
+}
+
+.cp-main .button-container #button {
+    color: black;
+    border-radius: 5px;
+    margin-left: 47%;
+    margin-right: 47%;
+}
+
+body {
+    background-color: black;
+}
